@@ -35,10 +35,10 @@ pip install scapy
 2. Run the application with elevated privileges (required for raw packet capture):
 
    **Windows (run as Administrator):**
-   python Networking.py
+   python IDS.py
 
    **Linux/macOS:**
-   sudo python3 Networking.py
+   sudo python3 IDS.py
 
 3. In the GUI:
    - Select a network interface from the dropdown
