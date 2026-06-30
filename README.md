@@ -29,7 +29,7 @@ pip install scapy
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/network-ids-icmp.git
+   git clone https://github.com/Shah-Kavya-03/network-ids-icmp.git
    cd network-ids-icmp
 
 2. Run the application with elevated privileges (required for raw packet capture):
